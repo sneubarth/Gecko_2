@@ -1,5 +1,7 @@
 # Gecko 2 LORA Projects
 
+![Gecko2 Image](images/Gecko2_image.png)
+
 This repository contains test code for the RFM95 LoRa radio modules (915 MHz band, based on the Semtech SX1276 chip) integrated into the Gecko2 PCBs designed by Stuart Neubarth. The project consists of:
 
 1. **Gecko_2_LORA_tx**: Transmitter project that collects sensor data (temperature, humidity, light level, battery voltage) and transmits it via LoRa radio every 2 seconds.
